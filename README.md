@@ -28,12 +28,4 @@ This repository contains my solutions to the assignments for COMP 210: Data Stru
      - Adding and removing elements (considering heap order)
      - Extracting the element with the highest priority
 
-**Note:**
 
-This description provides a general overview of the potential content in each assignment. The specific tasks and implementations may vary depending on the course curriculum and Professor Ghani's instructions.
-
-
-**Additional Information (Optional):**
-
-- Feel free to include any specific instructions provided by Professor Ghani for these assignments.
-- If you used any additional libraries or resources for these assignments, you can mention them here.
