@@ -1,32 +1,39 @@
-COMP 210: Data Structures and Algorithms (Sayeed Ghani)
-
 This repository contains my solutions to the assignments for COMP 210: Data Structures and Algorithms, taught by Professor Sayeed Ghani. The assignments cover various fundamental concepts in Java programming and data structures.
 
-Assignments:
+**Assignments:**
 
-Basic Java Skills (assn1):
+1. **Basic Java Skills (assn1):**
+   - This assignment focuses on core Java syntax and concepts like variables, data types, operators, control flow statements (if, else, for, while), and methods.
 
-This assignment focuses on core Java syntax and concepts like variables, data types, operators, control flow statements (if, else, for, while), and methods.
-More Basic Java (assn2):
+2. **More Basic Java (assn2):**
+   - This assignment builds upon the basics by introducing arrays, strings, object-oriented programming fundamentals (classes, objects, constructors, methods), and basic input/output (I/O) using `Scanner`.
 
-This assignment builds upon the basics by introducing arrays, strings, object-oriented programming fundamentals (classes, objects, constructors, methods), and basic input/output (I/O) using Scanner.
-Linked List Implementation (assn3):
+3. **Linked List Implementation (assn3):**
+   - This assignment delves into data structures by implementing a linked list data structure in Java. The linked list is likely to include the following functionalities:
+     - Node creation and manipulation
+     - Adding and removing elements from the list (head, tail, specific positions)
+     - Searching for elements
+     - Traversing the list
 
-This assignment delves into data structures by implementing a linked list data structure in Java. The linked list is likely to include the following functionalities:
-Node creation and manipulation
-Adding and removing elements from the list (head, tail, specific positions)
-Searching for elements
-Traversing the list
-Binary Tree Implementation (assn4):
+4. **Binary Tree Implementation (assn4):**
+   - This assignment tackles the implementation of a binary tree data structure in Java. The binary tree may include:
+     - Node creation and manipulation
+     - Adding and removing elements (considering binary search tree properties if applicable)
+     - Searching for elements
+     - Traversal methods (in-order, pre-order, post-order)
 
-This assignment tackles the implementation of a binary tree data structure in Java. The binary tree may include:
-Node creation and manipulation
-Adding and removing elements (considering binary search tree properties if applicable)
-Searching for elements
-Traversal methods (in-order, pre-order, post-order)
-Priority Queue and Max Heap Implementation (assn5):
+5. **Priority Queue and Max Heap Implementation (assn5):**
+   - This assignment focuses on implementing a priority queue data structure using a max heap. The implementation may cover:
+     - Node creation and manipulation with priority values
+     - Adding and removing elements (considering heap order)
+     - Extracting the element with the highest priority
 
-This assignment focuses on implementing a priority queue data structure using a max heap. The implementation may cover:
-Node creation and manipulation with priority values
-Adding and removing elements (considering heap order)
-Extracting the element with the highest priority
+**Note:**
+
+This description provides a general overview of the potential content in each assignment. The specific tasks and implementations may vary depending on the course curriculum and Professor Ghani's instructions.
+
+
+**Additional Information (Optional):**
+
+- Feel free to include any specific instructions provided by Professor Ghani for these assignments.
+- If you used any additional libraries or resources for these assignments, you can mention them here.
